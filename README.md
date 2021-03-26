@@ -1,7 +1,5 @@
-### Hi there 👋
+### 👋 Hi, I'm Michael. I'm a software engineer, and I want to make something amazing!
 
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
