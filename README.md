@@ -7,8 +7,7 @@
 - 🔭 I’m currently working on Human Rights First: Blue Witness
 - 🌱 I’m currently learning at Lambda School
 - 👯 I’m looking to collaborate on anything and everything! Contact me!
-<p align="center">
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mjmaton6@@gmail.com)](mailto:mjmaton6@@gmail.com) <a href="https://www.linkedin.com/in/michaeljmaton/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Michael_Maton-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michaeljmaton/"></a>
+<p align="center">[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mjmaton6@@gmail.com)](mailto:mjmaton6@@gmail.com) <a href="https://www.linkedin.com/in/michaeljmaton/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Michael_Maton-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michaeljmaton/"></a>
 </p>
 - ⚡ Fun fact: I love to cook, play video games, go hiking, and play disc golf!
 
