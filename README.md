@@ -1,7 +1,8 @@
-<h2> Hi, I'm Michael. </h2>
+<h2> Hi, I'm Michael </h2>
 <h3>
   I'm a software engineer, and I want to make something amazing!
 </h3>
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
