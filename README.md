@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center"> 
+<a href="https://www.linkedin.com/in/michaeljmaton/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Michael_Maton-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michaeljmaton/"></a>
+</p>
