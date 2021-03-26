@@ -23,4 +23,4 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mjmaton6@@gmail.com)](mailto:mjmaton6@@gmail.com) <a href="https://www.linkedin.com/in/michaeljmaton/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Michael_Maton-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michaeljmaton/"></a>
 </div> 
 
-[<img src="https://spotify-now-playing.satyu.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" style="float: left; margin-right: 10px;" />](https://open.spotify.com/user/1246827091?si=2qDgrxd8SHi-IpriG1LzBg)
+[<img src="https://spotify-now-playing.satyu.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" style="float: left; margin-right: 10px;" />](https://open.spotify.com/user/1246827091)
