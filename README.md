@@ -4,7 +4,7 @@
 </h3>
 
 
-- 🔭 I’m currently working on Human Rights First: Blue Witness
+- 🔭 I’m currently working on my <a href="https://github.com/michael-maton/dga" target="_blank" >Disc Golf App</a>
 - 🌱 I’m currently learning at Lambda School
 - 👯 I’m looking to collaborate on anything and everything! Contact me!
 - ⚡ Fun fact: I love to cook, play video games, go hiking, and play disc golf!
